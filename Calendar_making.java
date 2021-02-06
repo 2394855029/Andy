@@ -1,7 +1,7 @@
 package Exercise;//1975年1月1日星期三。
 
 import java.util.Scanner;
-
+//test
 public class Calendar_making {
 
 	public static void main(String[] args) {
